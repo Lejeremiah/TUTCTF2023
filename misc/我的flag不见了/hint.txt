@@ -1,0 +1,5 @@
+lastkey=md5(usb.key)[:6]+md5(img.key)[:6]
+为了让你更容易以一点给出了md5的后几位以便于判断自己的key对错
+md5(usb.key)[-6:] = 9d2790
+md5(img.key)[-6:] = bb5280
+最后flag为32位字母数字哦!我就不让你guess了

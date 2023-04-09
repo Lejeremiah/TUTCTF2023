@@ -1,0 +1,3 @@
+kGGXMJDpmzdSdkgGjgfkdR9FHgDTWwRCbwf2YgAsiPQ
+
+【换了表，密文字符从右往左依次用的表均不同】 【1234xxxxxxwxyz】 【2345xxxxxxxyz1】 【....】 【....】 【....】 【....】 【1234xxxxxxwxyz】 【2345xxxxxxxyz1】
